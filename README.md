@@ -7,9 +7,13 @@ I have more than one year of experience as a backend developer and I have been d
 
 ### SKILLS 
 **Analytical Tools:** Power BI, Tableau, Advanced Excel, Google Analytics
+
 **Programming Languages:** SQL, Python, R, PHP, JavaScript, jQuery, HTML, CSS
+
 **Software:** MS Project, JIRA, Kanban board, IBM Cognos, Anaconda, R-Studio, Visual Studio 
+
 **Database:** MySQL, Microsoft SQL Server, SQL Lite, Oracle, MongoDB
+
 **Core Competencies:** Communication - Secretary of Toastmasters club. Presentation Skills: Spoke at College level Project
 
 - 🔭 I’m currently working on Capstone Project 
