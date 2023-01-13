@@ -2,7 +2,7 @@
 #### Data Analysis and Data Science with Business 
 ![Data Analysis and Data Science with Business ](https://github.com/DevkumarPatel21/DevkumarPatel21/blob/main/pngtree-blue-big-data-the-internet-banner-image_17472.jpg)
 
-I have more than one year of experience as a backend developer and I have been doing a Data Analytics course and have done various projects based on machine learning, tableau, power bi, and project management. Data Analyst portfolio have complete details about my project is given.
+I have more than one year of experience as a backend developer and I have been doing a Data Analytics course and have done various projects based on machine learning, tableau, power bi, and project management.[ Data Analyst portfolio] (https://github.com/DevkumarPatel21/data-analyst-portfolio) have complete details about my project is given.
 
 
 ### SKILLS 
