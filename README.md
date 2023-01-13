@@ -6,11 +6,11 @@ I have more than one year of experience as a backend developer and I have been d
 
 
 ### SKILLS 
-*** Analytical Tools:***  Power BI, Tableau, Advanced Excel, Google Analytics
-*** Programming Languages:*** SQL, Python, R, PHP, JavaScript, jQuery, HTML, CSS
-*** Software:*** MS Project, JIRA, Kanban board, IBM Cognos, Anaconda, R-Studio, Visual Studio 
-*** Database:*** MySQL, Microsoft SQL Server, SQL Lite, Oracle, MongoDB
-*** Core Competencies:*** Communication - Secretary of Toastmasters club. Presentation Skills: Spoke at College level Project
+**Analytical Tools:** Power BI, Tableau, Advanced Excel, Google Analytics
+**Programming Languages:** SQL, Python, R, PHP, JavaScript, jQuery, HTML, CSS
+**Software:** MS Project, JIRA, Kanban board, IBM Cognos, Anaconda, R-Studio, Visual Studio 
+**Database:** MySQL, Microsoft SQL Server, SQL Lite, Oracle, MongoDB
+**Core Competencies:** Communication - Secretary of Toastmasters club. Presentation Skills: Spoke at College level Project
 
 - 🔭 I’m currently working on Capstone Project 
 - 🌱 I’m currently learning Financial Analytics and Supply Chain Management  
@@ -20,5 +20,5 @@ I have more than one year of experience as a backend developer and I have been d
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DevkumarPatel21/data-analyst-portfolio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/devkumarpatel21/)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/DevkumarPatel21/data-analyst-portfolio)  
+
 
