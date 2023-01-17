@@ -14,7 +14,7 @@ I have more than one year of experience as a backend developer and I have been d
 
 **Database:** MySQL, Microsoft SQL Server, SQL Lite, Oracle, MongoDB
 
-**Core Competencies:** Communication - Secretary of Toastmasters club. Presentation Skills: Spoke at College level Project
+**Core Competencies:** Excellent Communication Skill. Presentation Skills: Spoke at College Tceh Event Project
 
 - 🔭 I’m currently working on Capstone Project 
 - 🌱 I’m currently learning Financial Analytics and Supply Chain Management  
