@@ -5,7 +5,9 @@
 I have more than one year of experience as a backend developer and I have been doing a Data Analytics course and have done various projects based on machine learning, tableau, power bi, and project management.[ Data Analyst portfolio](https://github.com/DevkumarPatel21/data-analyst-portfolio) have complete details about my project is given.
 
 ### Experience
+
 DOMINANT INFOTECH, INDIA.  	 	 	 	 	 	 	 	                                                                                                        Aug 2019 – Sep 2020 
+
 Backend Developer - Intern  
 •	Designed, developed, and motivated the creation of software to increase product scalability.
 
@@ -16,7 +18,9 @@ Backend Developer - Intern
 •	Built a website that beautifully populates data sent by the app to the MySQL database with 9000 instances.
 
 WEB-VOKE, INDIA       	 	 	 	 
+
 Database Analyst - Intern                                                                                                                          Jan 2021 – May 2021 
+
 •	Experienced in creating ETL Strategy for initial load into the database as well as incremental load.
 
 •	Implementation of MongoDB security mechanism with various Authentications.
