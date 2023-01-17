@@ -4,6 +4,22 @@
 
 I have more than one year of experience as a backend developer and I have been doing a Data Analytics course and have done various projects based on machine learning, tableau, power bi, and project management.[ Data Analyst portfolio](https://github.com/DevkumarPatel21/data-analyst-portfolio) have complete details about my project is given.
 
+### Experience
+DOMINANT INFOTECH, INDIA.  	 	 	 	 	 	 	 	                                                                                                        Aug 2019 – Sep 2020 
+Backend Developer - Intern  
+•	Designed, developed, and motivated the creation of software to increase product scalability.
+•	Build back-end API and databases using SQL Server, SQL queries, and programming languages like XML, JavaScript, jQuery, and PHP.  Tested the API using Postman software and teamed with the development team of 10 members.
+•	Maintained and build the development pipeline to increase speed, production, and query. 
+•	Built a website that beautifully populates data sent by the app to the MySQL database with 9000 instances.
+WEB-VOKE, INDIA       	 	 	 	 
+Database Analyst - Intern                                                                                                                          Jan 2021 – May 2021 
+•	Experienced in creating ETL Strategy for initial load into the database as well as incremental load.
+•	Implementation of MongoDB security mechanism with various Authentications.
+•	Extensively worked on OLTP Relational Schema with Normalization and OLAP Dimensional Modeling using Star and Snowflake schema. Expertise in database design, modeling, and data mining.
+•	Created partitions on tables, indexes, and index views as well as querying and managed partitions from the optimization point of view. Pivoting tables and executed SQL queries to manage the data.
+•	Experience in Importing/Exporting and collecting 5000 data from various data sources like Excel, Flat File, and surveys. 
+
+
 
 ### SKILLS 
 **Analytical Tools:** Power BI, Tableau, Advanced Excel, Google Analytics
