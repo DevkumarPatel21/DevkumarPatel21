@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Devkumar Patel
 #### Knowledge of Data Analysis and Data Science with Business Domain
-![Knowledge of Data Analysis and Data Science with Business Domain](https://github.com/DevkumarPatel21/DevkumarPatel21/blob/main/pngtree-blue-big-data-the-internet-banner-image_17472.jpg)
+![Knowledge of Data Analysis and Data Science with Business Domain](https://www.canva.com/design/DAFYnnkjBNA/D3VlEk7qlWhlhgylOOuw2A/edit?utm_content=DAFYnnkjBNA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 I have more than one year of experience as a backend developer and I have been doing a Data Analytics course and have done various projects based on machine learning, tableau, power bi, and project management.[ Data Analyst portfolio](https://github.com/DevkumarPatel21/data-analyst-portfolio) have complete details about my project is given.
 
