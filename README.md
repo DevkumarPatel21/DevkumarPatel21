@@ -27,7 +27,7 @@ Database Analyst - Intern                                                       
 
 •	Extensively worked on OLTP Relational Schema with Normalization and OLAP Dimensional Modeling using Star and Snowflake schema. Expertise in database design, modeling, and data mining.
 
-•	Created partitions on tables, indexes, and index views as well as querying and managed partitions from the optimization point of view. Pivoting tables and executed SQL queries to manage the data.
+•	Created partitions on tables, indexes, and index views as well as querying and managed partitions from the optimization point of view. Pivoting tables and executed SQL queries to manage the data
 
 •	Experience in Importing/Exporting and collecting 5000 data from various data sources like Excel, Flat File, and surveys. 
 
