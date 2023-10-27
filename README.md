@@ -2,34 +2,44 @@
 #### Knowledge of Data Analysis and Data Science with Business Domain
 ![Knowledge of Data Analysis and Data Science with Business Domain](https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif)
 
-I have more than one year of experience as a backend developer and I have been doing a Data Analytics course and have done various projects based on machine learning, tableau, power bi, and project management.[ Data Analyst portfolio](https://github.com/DevkumarPatel21/data-analyst-portfolio) have complete details about my project is given.
+### PROFILE
+•	Experienced Business Analyst with a strong data analysis background, proficient in SQL and data visualization tools, dedicated to transforming complex datasets into actionable insights.
+[ Data Analyst portfolio](https://github.com/DevkumarPatel21/data-analyst-portfolio) have complete details about my project is given.
 
 ### Experience
+Quality Inn Hotel, Canada                                                                                                                        May 2022 to June 2023
+Business Analyst
+•	Collaborated with the hotel management team to develop and implement cost-effective solutions for improving operational efficiency.
+•	Produced and maintained comprehensive reports on key performance metrics, such as occupancy rates, ADR (Average Daily Rate), and RevPAR (Revenue per Available Room).
+•	Collaborated with cross-functional teams to define business requirements for technology solutions, such as a new online booking platform.
+•	Created complex SQL queries to extract, analyze, and report on data for various business needs, including financial reporting, customer segmentation, and performance tracking.
+•	Implemented SQL-based data quality assessments, anomaly detection, and data cleansing procedures to maintain high data integrity standards.
+•	Technology Used:  SQL, Microsoft SQL Server, Microsoft Excel, SSIS, Microsoft Project, Statista
 
-DOMINANT INFOTECH, INDIA.  	 	 	 	 	 	 	 	                                                                                                        Aug 2019 – Sep 2020 
+Dominant Infotech, India 	 	 	 	 	 	 	 	         Aug 2019 to Sep 2020
+Database-Driven Backend Developer   
+•	Optimized SQL queries for high-traffic system areas, resulting in a 20% reduction in database costs and reduced website load times by 30% for the financial investment company.
+•	Collaborated with a software developer to implement RESTful APIs in PHP and JavaScript allowing the analytics team to increase speed by 24% using tools like Tableau in automated dashboards.
+•	Debugged coding errors and conducted research, resulting in the resolution of 90% of technical issues.
+•	Managed the successful migration of data from legacy systems to a more modern and efficient database structure, ensuring data consistency and integrity during the transition.
+•	Contributed to the development of a data warehousing solution, enabling the storage and analysis of historical data for long-term strategic decision-making.
+•	Technology Used: SQL, MySQL Database, PHP, Javascript, HTML, CSS, RESTful APIs, Tableau, Jira, Visual Studio Code, Postman
 
-Backend Developer - Intern  
-•	Designed, developed, and motivated the creation of software to increase product scalability.
+Navsari Iron Foundry (NIF) Mechanical Work Pvt. Ltd, India                                                            July 2017 to Nov 2018
+ERP Data Entry Specialist
+•	Proficiently executed data entry tasks using Microsoft Dynamic 365 tailored for Bakelite rotary grooved manufacturing, ensuring the recording of raw material inventory, production orders, quality control data, and shipment details.
+•	Collaborated closely with production supervisors and quality control teams to maintain real-time data with the ERP system, contributing to streamlined manufacturing processes and optimized inventory management.
+•	Meticulously handled data entry responsibilities using CRM, guaranteeing accurate records of financial transactions, and maintaining data integrity and security all the time.
+•	Technology Used: Microsoft Dynamics 365, MS Excel, MS Office, Google Spreadsheets
 
-•	Build back-end API and databases using SQL Server, SQL queries, and programming languages like XML, JavaScript, jQuery, and PHP.  Tested the API using Postman software and teamed with the development team of 10 members.
+### INTERNSHIPS
+1 million Teachers, Canada (Capstone Project)                                                                                       Jan 2023 to April 2023
+•	Conducted sentimental analysis on 1 million teachers’ social media platforms utilizing deep learning algorithms, extracting user-generated content to data-driven decision-making.
+•	Developed and implemented a natural language processing (NLP) model to classify social media post comments as positive, negative, or neutral with an accuracy rate of almost 90%.
+•	Conducted team meetings including stakeholders, delegating tasks, and planned daily sprints.
+•	Analyzed the outcome of the emotion of the customer related to service with Power BI and web application.
+•	Technology Used: Machine Learning, NLP, SSMS, Power BI, Flask application, Jira, MS Excel, GCP
 
-•	Maintained and build the development pipeline to increase speed, production, and query. 
-
-•	Built a website that beautifully populates data sent by the app to the MySQL database with 9000 instances.
-
-WEB-VOKE, INDIA       	 	 	 	 
-
-Database Analyst - Intern                                                                                                                          Jan 2021 – May 2021 
-
-•	Experienced in creating ETL Strategy for initial load into the database as well as incremental load.
-
-•	Implementation of MongoDB security mechanism with various Authentications.
-
-•	Extensively worked on OLTP Relational Schema with Normalization and OLAP Dimensional Modeling using Star and Snowflake schema. Expertise in database design, modeling, and data mining.
-
-•	Created partitions on tables, indexes, and index views as well as querying and managed partitions from the optimization point of view. Pivoting tables and executed SQL queries to manage the data
-
-•	Experience in Importing/Exporting and collecting 5000 data from various data sources like Excel, Flat File, and surveys. 
 
 
 
