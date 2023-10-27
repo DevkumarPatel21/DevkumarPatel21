@@ -7,8 +7,9 @@
 [ Data Analyst portfolio](https://github.com/DevkumarPatel21/data-analyst-portfolio) have complete details about my project is given.
 
 ### Experience
-Quality Inn Hotel, Canada                                                                                                                        May 2022 to June 2023
-Business Analyst
+**Quality Inn Hotel, Canada**                                                                                                                          May 2022 to June 2023
+
+***Business Analyst***
 
 •	Collaborated with the hotel management team to develop and implement cost-effective solutions for improving operational efficiency.
 
@@ -22,9 +23,9 @@ Business Analyst
 
 •	Technology Used:  SQL, Microsoft SQL Server, Microsoft Excel, SSIS, Microsoft Project, Statista
 
-Dominant Infotech, India 	 	 	 	 	 	 	 	         Aug 2019 to Sep 2020
+**Dominant Infotech, India** 	 	 	 	 	 	 	 	                                                                                 Aug 2019 to Sep 2020
 
-Database-Driven Backend Developer   
+***Database-Driven Backend Developer***   
 
 •	Optimized SQL queries for high-traffic system areas, resulting in a 20% reduction in database costs and reduced website load times by 30% for the financial investment company.
 
@@ -38,8 +39,9 @@ Database-Driven Backend Developer
 
 •	Technology Used: SQL, MySQL Database, PHP, Javascript, HTML, CSS, RESTful APIs, Tableau, Jira, Visual Studio Code, Postman
 
-Navsari Iron Foundry (NIF) Mechanical Work Pvt. Ltd, India                                                            July 2017 to Nov 2018
-ERP Data Entry Specialist
+***Navsari Iron Foundry (NIF) Mechanical Work Pvt. Ltd, India**                                                            July 2017 to Nov 2018
+
+***ERP Data Entry Specialist***
 
 •	Proficiently executed data entry tasks using Microsoft Dynamic 365 tailored for Bakelite rotary grooved manufacturing, ensuring the recording of raw material inventory, production orders, quality control data, and shipment details.
 
