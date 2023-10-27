@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Devkumar Patel
 #### Knowledge of Data Analysis and Data Science with Business Domain
-![Knowledge of Data Analysis and Data Science with Business Domain](https://github.com/DevkumarPatel21/DevkumarPatel21/blob/main/1_Qd3LS4-aq7CvG-oIXlhi2A.gif)
+![Knowledge of Data Analysis and Data Science with Business Domain](https://github.com/DevkumarPatel21/DevkumarPatel21/blob/main/c003e952b6d56c85afc15cb3f5247bcd.png)
 
 ### PROFILE
 •	Experienced Business Analyst with a strong data analysis background, proficient in SQL and data visualization tools, dedicated to transforming complex datasets into actionable insights.
