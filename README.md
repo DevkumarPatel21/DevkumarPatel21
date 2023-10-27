@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Devkumar Patel
 #### Knowledge of Data Analysis and Data Science with Business Domain
-![Knowledge of Data Analysis and Data Science with Business Domain](https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif)
+![Knowledge of Data Analysis and Data Science with Business Domain](https://github.com/DevkumarPatel21/DevkumarPatel21/blob/main/1_Qd3LS4-aq7CvG-oIXlhi2A.gif)
 
 ### PROFILE
 •	Experienced Business Analyst with a strong data analysis background, proficient in SQL and data visualization tools, dedicated to transforming complex datasets into actionable insights.
