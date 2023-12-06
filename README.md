@@ -27,7 +27,7 @@
 
 ***Database-Driven Backend Developer***   
 
-•	Optimized SQL queries for high-traffic system areas, resulting in a 20% reduction in database costs and reduced website load times by 30% for the financial investment company.
+•	Optimized SQL queries for high-traffic system areas, resulting in a 20% reduction in database costs and reduced website load times by 30% for the company.
 
 •	Collaborated with a software developer to implement RESTful APIs in PHP and JavaScript allowing the analytics team to increase speed by 24% using tools like Tableau in automated dashboards.
 
