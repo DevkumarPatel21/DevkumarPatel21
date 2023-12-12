@@ -6,24 +6,9 @@
 •	Experienced Business Analyst with a strong data analysis background, proficient in SQL and data visualization tools, dedicated to transforming complex datasets into actionable insights.
 [ Data Analyst portfolio](https://github.com/DevkumarPatel21/data-analyst-portfolio) have complete details about my project is given.
 
-### Experience
-**Quality Inn Hotel, Canada**                                                                                                                          May 2022 to June 2023
 
-***Business Analyst***
 
-•	Collaborated with the hotel management team to develop and implement cost-effective solutions for improving operational efficiency.
-
-•	Produced and maintained comprehensive reports on key performance metrics, such as occupancy rates, ADR (Average Daily Rate), and RevPAR (Revenue per Available Room).
-
-•	Collaborated with cross-functional teams to define business requirements for technology solutions, such as a new online booking platform.
-
-•	Created complex SQL queries to extract, analyze, and report on data for various business needs, including financial reporting, customer segmentation, and performance tracking.
-
-•	Implemented SQL-based data quality assessments, anomaly detection, and data cleansing procedures to maintain high data integrity standards.
-
-•	Technology Used:  SQL, Microsoft SQL Server, Microsoft Excel, SSIS, Microsoft Project, Statista
-
-**Dominant Infotech, India** 	 	 	 	 	 	 	 	                                                                                 Aug 2019 to Sep 2020
+**Dominant Infotech, India** 	 	 	 	 	 	 	 	                                                                                 Aug 2019 to Sep 2021
 
 ***Database-Driven Backend Developer***   
 
