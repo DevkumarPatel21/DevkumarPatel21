@@ -10,11 +10,22 @@
 
 **Dominant Infotech, India** 	 	 	 	 	 	 	 	                                                                                 Aug 2019 to Sep 2021
 
-***Database-Driven Backend Developer***   
+***Backend Developer*** 
 
+•	Designed and implemented secure database transactions which reduced data breaches by 45%.
+
+•	Optimized SQL queries for high-traffic system areas, resulting in a 20% reduction in database costs and reduced website load times by 30% for the e-commerce company as a third-party provider
+
+•	Supported the development of 25 website management features, encompassing efficient order management, sales tracking, sales forecasting, and inventory management by designing APIs for an e-commerce site.
+
+•	Highlighted the tangible benefits of optimized backend operations through PowerPoint, ensuring business managers understood the direct impact on cost-effectiveness and improved customer satisfaction within the e-commerce landscape
+
+•	Collaborated with a team of 20 developers to create e-commerce platform that scaled up to 10M daily users.
 
 
 1 million Teachers, Canada (Capstone Project)                                                                                       Jan 2023 to April 2023
+
+***Data Analyst***
 
 •	Conducted sentimental analysis on 1 million teachers’ social media platforms utilizing deep learning algorithms, extracting user-generated content to data-driven decision-making.
 
