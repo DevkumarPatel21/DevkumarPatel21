@@ -12,31 +12,7 @@
 
 ***Database-Driven Backend Developer***   
 
-•	Optimized SQL queries for high-traffic system areas, resulting in a 20% reduction in database costs and reduced website load times by 30% for the company.
 
-•	Collaborated with a software developer to implement RESTful APIs in PHP and JavaScript allowing the analytics team to increase speed by 24% using tools like Tableau in automated dashboards.
-
-•	Debugged coding errors and conducted research, resulting in the resolution of 90% of technical issues.
-
-•	Managed the successful migration of data from legacy systems to a more modern and efficient database structure, ensuring data consistency and integrity during the transition.
-
-•	Contributed to the development of a data warehousing solution, enabling the storage and analysis of historical data for long-term strategic decision-making.
-
-•	Technology Used: SQL, MySQL Database, PHP, Javascript, HTML, CSS, RESTful APIs, Tableau, Jira, Visual Studio Code, Postman
-
-***Navsari Iron Foundry (NIF) Mechanical Work Pvt. Ltd, India**                                                            July 2017 to Nov 2018
-
-***ERP Data Entry Specialist***
-
-•	Proficiently executed data entry tasks using Microsoft Dynamic 365 tailored for Bakelite rotary grooved manufacturing, ensuring the recording of raw material inventory, production orders, quality control data, and shipment details.
-
-•	Collaborated closely with production supervisors and quality control teams to maintain real-time data with the ERP system, contributing to streamlined manufacturing processes and optimized inventory management.
-
-•	Meticulously handled data entry responsibilities using CRM, guaranteeing accurate records of financial transactions, and maintaining data integrity and security all the time.
-
-•	Technology Used: Microsoft Dynamics 365, MS Excel, MS Office, Google Spreadsheets
-
-### INTERNSHIPS
 
 1 million Teachers, Canada (Capstone Project)                                                                                       Jan 2023 to April 2023
 
@@ -62,7 +38,7 @@
 
 **Database:** MySQL, Microsoft SQL Server, SQL Lite, Oracle, MongoDB
 
-**Core Competencies:** Excellent Communication Skill. Presentation Skills: Spoke at College Tceh Event Project
+**Core Competencies:** Excellent Communication Skill. Presentation Skills: Spoke at College Tech Event Project
 
 
 - 👯 I’m looking to collaborate on working with company as junior Data Analyst or Business Analyst 
