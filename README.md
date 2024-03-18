@@ -8,11 +8,17 @@
 
 ### Projects
 In the link of Data Analyst portfolio it contains the various data analysis projects such as:
+
 -- **Markerting Analysis**
+
 -- **Healthcare Analysis**
+
 -- **Project Management**
+
 -- **Machine Learning**
+
 -- **Tableau**
+
 -- **Power BI**
 
 
